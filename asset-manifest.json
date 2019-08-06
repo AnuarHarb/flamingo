@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c63bbc6.chunk.css",
+    "main.js": "/static/js/main.ba8ebbd0.chunk.js",
+    "main.js.map": "/static/js/main.ba8ebbd0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.2751d29f.chunk.js": "/static/js/2.2751d29f.chunk.js",
+    "static/js/2.2751d29f.chunk.js.map": "/static/js/2.2751d29f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.170d9893453bf0b51aa79b4ff4df4b73.js": "/precache-manifest.170d9893453bf0b51aa79b4ff4df4b73.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3c63bbc6.chunk.css.map": "/static/css/main.3c63bbc6.chunk.css.map",
+    "static/media/index.css": "/static/media/Lato-Medium.863b7dcd.ttf",
+    "static/media/amigo.jpg": "/static/media/amigo.6a61bd77.jpg",
+    "static/media/banda.jpg": "/static/media/banda.3db7b7d3.jpg",
+    "static/media/flamingo.png": "/static/media/flamingo.180b48e1.png",
+    "static/media/libreta.jpg": "/static/media/libreta.735ab5cf.jpg",
+    "static/media/libro.jpg": "/static/media/libro.ca266a50.jpg",
+    "static/media/liga.jpg": "/static/media/liga.d40943b2.jpg",
+    "static/media/snickers.jpg": "/static/media/snickers.4ef1da67.jpg"
+  }
+}
